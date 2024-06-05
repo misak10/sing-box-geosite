@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "bluesea",
+        "charontv",
+        "emby",
+        "freeview",
+        "infinityfly",
+        "jmsooo",
+        "misakaf",
+        "misty",
+        "nijigem",
+        "odysseyplus",
+        "singularity",
+        "studyfun"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1.4545.cf",
+        "123456.al",
+        "9191001.xyz",
+        "amazing910.top",
+        "bili.rip",
+        "casacam.net",
+        "freetz.top",
+        "lzlz.cc",
+        "nmg.llc",
+        "xmsl.org"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "161.97.148.156/24",
+        "202.61.255.248/24"
+      ]
+    }
+  ],
+  "version": 1
+}
