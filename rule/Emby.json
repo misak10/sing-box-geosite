@@ -8,11 +8,13 @@
         "freeview",
         "infinityfly",
         "jmsooo",
+        "jmsuper",
         "misakaf",
         "misty",
         "mooguu",
         "nijigem",
         "odysseyplus",
+        "sfcj",
         "singularity",
         "studyfun"
       ]
@@ -24,22 +26,24 @@
         "7777777.buzz",
         "9191001.xyz",
         "amazing910.top",
+        "auroramedia.vip",
         "bili.rip",
         "casacam.net",
         "cc.coemn.com",
         "de.ddns.me",
         "freetz.top",
+        "itsmyduty.top",
         "lzlz.cc",
         "nanflix.net",
         "nmg.llc",
+        "tdck.fun",
         "viclub.top",
         "xmsl.org"
       ]
     },
     {
       "ip_cidr": [
-        "161.97.148.156/24",
-        "202.61.255.248/24"
+        "155.53.133.214/32,no-resolve"
       ]
     }
   ],
